@@ -1,0 +1,1 @@
+BLSTM CRF 4 labels max dev 9469 test 6183 ranking 40
